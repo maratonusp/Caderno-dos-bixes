@@ -1,4 +1,4 @@
-# Caderno dos Bixes / aula 0
+# Caderno dos Bixes
 
 O Caderno dos Bixes é uma coletânea com todas as aulas aplicadas no bixeCamp e tem como intuito oferecer apoio às pessoas que estão começando a entrar no mundo da programação competitiva.
 
