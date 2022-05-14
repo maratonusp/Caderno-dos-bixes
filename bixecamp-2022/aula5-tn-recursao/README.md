@@ -13,6 +13,6 @@ Recomendo a seguinte ordem de códigos:
 4. inverso.cpp
 5. teste_primalidade.cpp
 6. todos_divisores.cpp
-7.crivo.cpp  (**MUITO IMPORTANTE**)
+7. crivo.cpp  (**MUITO IMPORTANTE**)
 8. fatoracao.cpp
 9. fastxp_matriz.cpp (para quem quiser...)
