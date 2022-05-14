@@ -1,4 +1,11 @@
 ## Recomendações
+Na aula tivemos alguns conhecimentos teóricos, mas foquem principalmente nos resultados práticos.
+Vimos diversos códigos e alguns deles são muito úteis para a Maratona.
+Dentro de cada código, adicionei alguns comentários para facilitar a compreensão e alguns links
+para estudo mais aprofundado.
+
+Qualquer dúvida, mandem no grupo!
+
 Recomendo a seguinte ordem de códigos:
 1. fibonacci.cpp
 2. fastxp.cpp (**MUITO IMPORTANTE**)
